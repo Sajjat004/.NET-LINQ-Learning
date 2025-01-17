@@ -17,6 +17,11 @@ Learning .NET LINQ from basics to advance.
 - [LINQ Except Method in C#]
 - [LINQ Intersect Method in C#]
 - [LINQ Union Method in C#]
-- [LINQ OrderBy Method in C#]()
-- [LINQ OrderByDescending Method in C#]()
-- [LINQ ThenBy and ThenByDescending Method in C#]()
+- [LINQ OrderBy Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20OrderBy%20Method%20in%20C%23.cs)
+- [LINQ OrderByDescending Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20OrderByDescending%20Method%20in%20C%23.cs)
+- [LINQ ThenBy and ThenByDescending Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20ThenBy%20and%20ThenByDescending%20Method%20in%20C%23.cs)
+- [LINQ Sum Method in C#]()
+- [LINQ Max Method in C#]()
+- [LINQ Min Method in C#]()
+- [LINQ Average Method in C#]()
+- [LINQ Count Method in C#]()
