@@ -25,6 +25,8 @@ Learning .NET LINQ from basics to advance.
 - [LINQ Min Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20Min%20Method%20in%20C%23.cs)
 - [LINQ Average Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20Average%20Method%20in%20C%23.cs)
 - [LINQ Count Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20Count%20Method%20in%20C%23.cs)
-- [LINQ All Method in C#]()
-- [LINQ Any Method in C#]()
-- [LINQ Contains Method in C#]()
+- [LINQ All Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20All%20Method%20in%20C%23.cs)
+- [LINQ Any Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20Any%20Method%20in%20C%23.cs)
+- [LINQ Contains Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20Contains%20Method%20in%20C%23.cs)
+- [LINQ GroupBy Method in C#]()
+- [LINQ GroupBy Method with Multiple Keys in C#]
