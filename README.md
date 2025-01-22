@@ -30,3 +30,5 @@ Learning .NET LINQ from basics to advance.
 - [LINQ Contains Method in C#](https://github.com/Sajjat004/.NET-LINQ-Learning/blob/main/LINQ%20Basics/LINQ%20Contains%20Method%20in%20C%23.cs)
 - [LINQ GroupBy Method in C#]()
 - [LINQ GroupBy Method with Multiple Keys in C#]
+- [LINQ Inner Join in C#]()
+- [LINQ Join with Multiple Data Sources in C#]()
